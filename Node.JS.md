@@ -328,8 +328,6 @@ NodeJS核心API-Path方法，详见网址——Node.js v14.16.1 文档：http://
   let fs = require("fs")
   let path = require("path")
   
-  
-  
   /*
   1、文件状态
   console.log(1);
